@@ -48,7 +48,7 @@ pip install -r requirements.txt
 4. Ejecutar la aplicación
 
 ```bash
-streamlit run app.py
+streamlit run streamlit_app.py
 ```
 
 ### Método 2: Usando Docker (recomendado)
